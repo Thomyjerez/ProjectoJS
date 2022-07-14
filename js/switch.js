@@ -1,5 +1,5 @@
 let estacion = parseInt(
-  prompt(
+prompt(
     "Ingrese su estacion del año preferida: 1-verano, 2-otoño, 3-primavera, 4-invierno"
   )
 );
