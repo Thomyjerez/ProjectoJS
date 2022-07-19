@@ -1,7 +1,7 @@
 // crear un arreglo
 let listaSupermercado = [];
 
-// crear um arregñp con datos
+// crear um arreglo con datos
 
 let series = [`peaky blinders`, 7, "stranger things", 3, "the boys", 3, "loky" ];
 
